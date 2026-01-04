@@ -20,3 +20,7 @@ Find employees who earn more than their managers using the same table.
 * Correct self-join condition
 * Returns only employee names
 * No extra columns
+
+**Bonus:**
+
+* Explain why self-join is required
